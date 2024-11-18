@@ -47,7 +47,7 @@ function ChangeForumPage(e){
 		  alert ("Your browser does not support AJAX!");
 		  return;
 		  } 
-		var url="https://mymusicbaran1.ir/MTForumsBlock.php?req=LastTopics&p="+page;
+		var url="https://mymusicbaran1.ir/MTForumsBlock.php?req=LastTopics&p=1";
 		xmlHttp.onreadystatechange=ChangeForumPageProces;
 		xmlHttp.open("GET",url,true);
 		xmlHttp.send(null);
