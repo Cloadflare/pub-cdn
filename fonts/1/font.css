@@ -1,0 +1,20 @@
+@font-face {
+    font-family: vazir;
+    src: url(https://raw.githubusercontent.com/Cloadflare/pub-cdn/refs/heads/main/fonts/1/vazir-fd.woff) format('woff');
+    font-weight: 400;
+    font-display: swap
+}
+
+@font-face {
+    font-family: vazir;
+    src: url(https://raw.githubusercontent.com/Cloadflare/pub-cdn/refs/heads/main/fonts/1/vazir-bold-fd.woff) format('woff');
+    font-weight: 700;
+    font-display: swap
+}
+
+@font-face {
+    font-family: vazir;
+    src: url(https://raw.githubusercontent.com/Cloadflare/pub-cdn/refs/heads/main/fonts/1/vazir-light-fd.woff) format('woff');
+    font-weight: 300;
+    font-display: swap
+}
